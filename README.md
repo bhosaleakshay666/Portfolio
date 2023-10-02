@@ -33,6 +33,7 @@ This repository contains a serverless architecture for data analysis that is rob
 <img align="left" width="250" height="150" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/sevir.PNG"> **[SEVIR - Weather NowCasting Pipeline](https://github.com/bhosaleakshay666/SEVIR-NowCasting-Machine-Learning-Pipeline)**
 
 In this project, we have deployed the code for the paper SEVIR: A Storm Event Imagery Dataset for Deep Learning Applications of Nowcasting using images provided via Radar and Satellite Meteorology.
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/ai-text-generator-flat-concept-spot-vector-46395185.jpg"> **[NLP - Text Generation using Corpus of choice](https://github.com/bhosaleakshay666/Text-Generation-using-LSTM)** 
@@ -64,11 +65,11 @@ We have used the Rain in Australia dataset for this project.
 
 This project is built to demonstrate Virus Evolution Simulation of variants of a positive-sense single-stranded RNA virus ( SARS-CoV-2 ).
 
-
+#
 
 <br />
 
-
+#
  
 ## Core Competencies
 
