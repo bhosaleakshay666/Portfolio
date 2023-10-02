@@ -1,5 +1,5 @@
 # Data Science Portfolio - AKSHAY S BHOSALE
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes.
+This Portfolio is a compilation of all the Data Science and Machine Learning projects I have done for academic, self-learning and hobby purposes.
 
 - **Email**: [bhosale.ak@northeastern.edu](bhosale.ak@northeastern.edu)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/akshayksbhosale667/)
