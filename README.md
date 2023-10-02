@@ -32,7 +32,8 @@ This repository contains a serverless architecture for data analysis that is rob
 
 <img align="left" width="250" height="150" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/sevir.PNG"> **[SEVIR - Weather NowCasting Pipeline](https://github.com/bhosaleakshay666/SEVIR-NowCasting-Machine-Learning-Pipeline)**
 
-In this project, we have deployed the code for the paper SEVIR: A Storm Event Imagery Dataset for Deep Learning Applications of Nowcasting using images provided via Radar and Satellite Meteorology.
+In this project, we have deployed the code for the paper SEVIR: A Storm Event Imagery Dataset for Deep Learning Applications of Nowcasting using images provided via Radar and Satellite Meteorology. Used pretrained model, migrated data to GCP from AWS, designed and implemented the nowcasting pipeline. Nowcasting is a prediction task of generating weather forecasts like radar echoes, precipitation, cloud coverage using meteorological knowledge.
+The models here take input of 13 VIL images, each sampled at every 5 minutes, train and generate the next 12 images in the sequence for the following hour
 
 #
 
@@ -66,15 +67,11 @@ We have used the Rain in Australia dataset for this project.
 This project is built to demonstrate Virus Evolution Simulation of variants of a positive-sense single-stranded RNA virus ( SARS-CoV-2 ).
 
 #
-
 <br />
-
-#
  
 ## Core Competencies
-
--**Programming Languages:**					                  Python, Java, C++, R, JavaScript, MATLAB, SAS
--**Database:** 			             ER Studio, Snowflake, MySQL, RDBMS, PostgreSQL, MS SQL, SQL Server
--**ETL & BI SKILLS:** 		     Data Integration, Data MODELING, DATA WAREHOUSING, Tableau, Power BI
--**Tools:** 		       Git, Docker, Fast-API, AWS, Google Cloud, High Performance Computing – SLURM
--**ML/DL Frameworks:** 	   Numpy, Pandas, Sci-kit Learn, Sci-Py, Keras, PLOTLY, PyTorch, TensorFlow
+- **Programming Languages:**					                  Python, Java, C++, R, JavaScript, MATLAB, SAS
+- **Database:** 			             ER Studio, Snowflake, MySQL, RDBMS, PostgreSQL, MS SQL, SQL Server
+- **ETL & BI SKILLS:** 		     Data Integration, Data MODELING, DATA WAREHOUSING, Tableau, Power BI
+- **Tools:** 		       Git, Docker, Fast-API, AWS, Google Cloud, High Performance Computing – SLURM
+- **ML/DL Frameworks:** 	   Numpy, Pandas, Sci-kit Learn, Sci-Py, Keras, PLOTLY, PyTorch, TensorFlow
