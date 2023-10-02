@@ -38,7 +38,7 @@ In this project, we have deployed the code for the paper SEVIR: A Storm Event Im
 
 <img align="left" width="250" height="150" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/ai-text-generator-flat-concept-spot-vector-46395185.jpg"> **[NLP - Text Generation using Corpus of choice](https://github.com/bhosaleakshay666/Text-Generation-using-LSTM)** 
 
-This Jupyter notebook demonstrates text generation using a Long Short-Term Memory (LSTM) Recurrent Neural Network model trained on a corpus of Amazon product reviews. The notebook provides full code to load data, build, train and generate text from the LSTM model. It can be easily adapted to any text corpus. The resulting model can generate new realistic text after training on a large dataset.
+The notebook provides full code to load data, build, train and generate text from the LSTM [Long Shert term Memory] a RNN model. It can be easily adapted to any text corpus. The resulting model can generate new realistic text after training on a large dataset.
 
 #
 
