@@ -30,7 +30,7 @@ This repository contains a serverless architecture for data analysis that is rob
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/sevir.PNG"> **[SEVIR - Weather NowCasting Pipeline](https://github.com/bhosaleakshay666/SEVIR-NowCasting-Machine-Learning-Pipeline)**
+<img align="left" width="250" height="165" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/sevir.PNG"> **[SEVIR - Weather NowCasting Pipeline](https://github.com/bhosaleakshay666/SEVIR-NowCasting-Machine-Learning-Pipeline)**
 
 In this project, we have deployed the code for the paper SEVIR: A Storm Event Imagery Dataset for Deep Learning Applications of Nowcasting using images provided via Radar and Satellite Meteorology. Used pretrained model, migrated data to GCP from AWS, designed and implemented the nowcasting pipeline. Nowcasting is a prediction task of generating weather forecasts like radar echoes, precipitation, cloud coverage using meteorological knowledge.
 The models here take input of 13 VIL images, each sampled at every 5 minutes, train and generate the next 12 images in the sequence for the following hour
@@ -49,7 +49,7 @@ This Jupyter notebook classifies various news into one of the 20 news groups usi
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/stock.PNG"> **[FinTech - Tesla Stock Financial Analysis and Prediction using Machine Learning](https://github.com/bhosaleakshay666/Fintech-Stock-Analysis-Prediction-using-Machine-Learning)** 
+<img align="left" width="250" height="165" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/stock.PNG"> **[FinTech - Tesla Stock Financial Analysis and Prediction using Machine Learning](https://github.com/bhosaleakshay666/Fintech-Stock-Analysis-Prediction-using-Machine-Learning)** 
 
 In this project I applied various financial analysis techniques using Python for fundamental decision making. Further I explored trading startegies based on the obersvations made after fitting data to existing moving averages or training a Machine Learning model to fit the historical and predict prices or generate signals.
 
