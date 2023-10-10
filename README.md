@@ -49,7 +49,7 @@ This Jupyter notebook classifies various news into one of the 20 news groups usi
 
 #
 
-<img align="left" width="250" height="165" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/stock.PNG"> **[FinTech - Tesla Stock Financial Analysis and Prediction using Machine Learning](https://github.com/bhosaleakshay666/Fintech-Stock-Analysis-Prediction-using-Machine-Learning)** 
+<img align="left" width="250" height="165" src="https://github.com/bhosaleakshay666/Portfolio/blob/main/images/stock.PNG"> **[FinTech - Stock Financial Analysis and Prediction using Machine Learning](https://github.com/bhosaleakshay666/FinTech-Stock-Analysis-and-Prediction)** 
 
 In this project I applied various financial analysis techniques using Python for fundamental decision making. Further I explored trading startegies based on the obersvations made after fitting data to existing moving averages or training a Machine Learning model to fit the historical and predict prices or generate signals.
 
