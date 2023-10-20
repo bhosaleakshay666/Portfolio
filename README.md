@@ -70,8 +70,8 @@ This project is built to demonstrate Virus Evolution Simulation of variants of a
 <br />
  
 ## Core Competencies
-- **Programming Languages:**					                  Python, Java, C++, R, JavaScript, MATLAB, SAS
-- **Database:** 			             ER Studio, Snowflake, MySQL, RDBMS, PostgreSQL, MS SQL, SQL Server
-- **ETL & BI SKILLS:** 		     Data Integration, Data MODELING, DATA WAREHOUSING, Tableau, Power BI
-- **Tools:** 		       Git, Docker, Fast-API, AWS, Google Cloud, High Performance Computing – SLURM
-- **ML/DL Frameworks:** 	   Numpy, Pandas, Sci-kit Learn, Sci-Py, Keras, PLOTLY, PyTorch, TensorFlow
+- PROGRAMMING LANGUAGES: PYTHON, SQL, JAVA, C++, R, JAVASCRIPT, MATLAB, SAS
+- DATABASE: ER STUDIO, SNOWFLAKE, BIGQUERY, RDBMS, POSTGRESQL, SPARK, NOSQL, DATAFORM
+- ETL & BI SKILLS: DATA INTEGRATION, MODELING & WAREHOUSING PIPELINES, LOOKER, TABLEAU, POWER BI
+- TOOLS: GIT CI/CD, JIRA, DOCKER, FAST-API, AWS, GCP, AZURE, HPC – SLURM, DATAFLOW, ALTERYX, TALEND
+- ML FRAMEWORKS: NUMPY, PANDAS, SCI-KIT LEARN, SCI-PY, MATPLOTLIB, SEABORN, PLOTLY, KERAS, PYTORCH, TENSORFLOW, STATISTICAL, CLASSIFICATION & REGRESSION ANALYSIS & MODELING, NLP – LLM, BERT, LDA, NLTK
